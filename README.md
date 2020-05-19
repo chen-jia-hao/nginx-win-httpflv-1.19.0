@@ -30,7 +30,7 @@
 
 目录结构截图如下
 
-![](E:\tmp\n\nginx-win-httpflv-1.19.0\docs\pic1.png)
+![](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/blob/master/docs/pic1.png)
 
 ![](E:\tmp\n\nginx-win-httpflv-1.19.0\docs\pic2.png)
 
