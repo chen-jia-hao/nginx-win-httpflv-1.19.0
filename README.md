@@ -30,9 +30,9 @@
 
 目录结构截图如下
 
-![路径一](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/blob/master/docs/pic1.png)
+![路径一](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/raw/master/docs/pic1.png)
 
-![路径二](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/blob/master/docs/pic2.png)
+![路径二](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/raw/master/docs/pic2.png)
 
 ### 三.编译配置
 
@@ -70,7 +70,7 @@ auto/configure \
 
 在开始菜单的VS2019目录下可以找到“Developer Command Prompt for VS 2019”，启动它，并转到nginx源码目录下。
 
-![vs2019](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/blob/master/docs/pic3.png)
+![vs2019](https://github.com/chen-jia-hao/nginx-win-httpflv-1.19.0/raw/master/docs/pic3.png)
 
 输入命令
 
